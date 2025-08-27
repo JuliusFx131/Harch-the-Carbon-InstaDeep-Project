@@ -1,3 +1,16 @@
+# Model Description
+**Hack The Carbon 🌍🌱**  was an instadeep project that intended to build a machine learning model to estimate forest Above-Ground Biomass (AGB) across Africa efficiently and accurately. African forests are key carbon sinks, but deforestation and degradation can turn them into carbon sources. Using **open-source multispectral satellite imagery** and **ESA CCI biomass data**, the model I built for this project (ranked first and awarded $2500) provided high-resolution (30 m) biomass estimates to support carbon accounting, REDD+ reporting, and conservation policy.
+
+## Intended Use
+The models are designed to:
+
+- Enable accurate **carbon monitoring** and reporting.
+- Support **policy-making and forest conservation** efforts.
+- Detect **spatio-temporal changes** in biomass.
+- (Optional) Provide **uncertainty estimates** for policy-grade decisions.
+
+This project is ideal for **remote sensing specialists, data scientists, and climate advocates** aiming to track forest health and support climate solutions.
+
 # Biomass Inference with Docker
 
 This repository provides a Dockerized solution to run biomass inference on satellite image chips using a trained U-Net model.
