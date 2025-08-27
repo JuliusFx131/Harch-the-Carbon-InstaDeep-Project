@@ -4,7 +4,7 @@ This repository provides a Dockerized solution to run biomass inference on satel
 
 ---
 
-## Project Structure
+## Project Main Structure
 
 ```
 ./JuliusFx131/
