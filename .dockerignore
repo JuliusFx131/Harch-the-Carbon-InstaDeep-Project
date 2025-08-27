@@ -1,0 +1,7 @@
+__pycache__
+*.pth
+data/
+test/
+predictions/
+.git
+.DS_Store

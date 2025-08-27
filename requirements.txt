@@ -1,0 +1,4 @@
+segmentation-models-pytorch==0.3.3
+rasterio: 1.4.3
+tqdm: 4.67.1
+six
