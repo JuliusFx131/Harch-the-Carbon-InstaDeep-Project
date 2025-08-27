@@ -7,7 +7,7 @@ This repository provides a Dockerized solution to run biomass inference on satel
 ## Project Structure
 
 ```
-./Julius Fx/
+./JuliusFx131/
 ├── Dockerfile
 ├── requirements.txt
 ├── app.py
@@ -98,7 +98,7 @@ chip_02.tif  ->  prediction_02.tif
 
 ---
 
-## 5️⃣ Sharing Your Docker Image
+## 5️⃣ Sharing Docker Image
 
 **Option 1: Docker Hub**
 
