@@ -1,0 +1,13 @@
+git status
+git init
+dir (or ls)
+git add requirements.ext ReadMe.md (multiple files, can just one by one)
+git add utils/ (folders)
+git commit -m "Add selected files and directories"
+git branch -m master main   # rename locally (sometimes to match online)
+
+git remote add origin https://github.com/username/repo.git
+git remote -v
+git push -u origin main
+
+
