@@ -7,7 +7,12 @@ git commit -m "Add selected files and directories"
 git branch -m master main   # rename locally (sometimes to match online)
 
 git remote add origin https://github.com/username/repo.git
-git remote -v
+git remote -v 
 git push -u origin main
 
 
+# removing parmanently 
+git pull origin main/master       # update local branch
+git rm cyclic_federated_training.md
+git commit -m "remove cyclic_federated_training.md"
+git push origin main/master
